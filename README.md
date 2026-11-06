@@ -206,8 +206,8 @@ Detailed reference for the 13 features in `data/Housing.csv`:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/house-price-prediction.git
-cd house-price-prediction
+git clone https://github.com/Chirag264/-Smart-House-Price-Predictor.git
+cd -Smart-House-Price-Predictor
 ```
 
 ### 2. Install Dependencies
@@ -272,7 +272,7 @@ You can share your live web application online for free:
    git add .
    git commit -m "feat: complete end-to-end house price prediction system"
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/house-price-prediction.git
+   git remote add origin https://github.com/Chirag264/-Smart-House-Price-Predictor.git
    git push -u origin main
    ```
 2. Visit [share.streamlit.io](https://share.streamlit.io/) and log in with GitHub.
